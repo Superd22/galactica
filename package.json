@@ -1,0 +1,22 @@
+{
+  "name": "galactica",
+  "version": "1.0.0",
+  "description": "Wraper function for nas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Superd22/galactica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Superd22/galactica/issues"
+  },
+  "homepage": "https://github.com/Superd22/galactica#readme",
+  "dependencies": {
+    "materialize-css": "^0.98.0"
+  }
+}
